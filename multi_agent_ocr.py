@@ -412,7 +412,7 @@ async def main():
     print("=" * 60)
     
     # 图片路径
-    image_path = "../Transformer.png"  # 修改为你的图片路径
+    image_path = "Transformer.png"  # 修改为你的图片路径
     
     if not os.path.exists(image_path):
         print(f"图片文件不存在: {image_path}")
